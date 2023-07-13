@@ -6,7 +6,7 @@ databases:
 
 services:
   - type: web
-    name: sotoie
+    name: django-test-exercise
     env: python
     plan: free
     branch: main
